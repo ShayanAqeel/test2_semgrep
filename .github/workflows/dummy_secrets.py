@@ -43,4 +43,3 @@ Dropbox Dropbox Access Token abcdefghijklmnopqrstuvwxyz0123456789
 Dropbox Dropbox Short Lived Access Token abcdefghijklmnopqrstuvwxyz0123456789
 Dynatrace Dynatrace Access Token abcdefghijklmnopqrstuvwxyz0123456789
 Dynatrace Dynatrace Internal Token abcdefghijklmnopqrstuvwxyz0123456789
-Figma Figma Personal Access Token abcdefghijklmnopqrstuvwxyz0123456789
